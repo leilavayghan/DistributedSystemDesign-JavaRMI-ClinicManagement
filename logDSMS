@@ -1,0 +1,880 @@
+INFO    2016-05-31 15:51:01,356 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 15:51:03,346 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 15:51:07,642 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 15:51:07,645 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 15:51:08,295 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 15:51:08,998 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 15:51:09,318 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 15:51:12,932 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-05-31 15:51:12,933 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 15:51:13,622 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 15:51:14,094 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 15:51:27,725 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO2222logged in this application
+INFO    2016-05-31 15:51:43,429 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL2222logged in this application
+INFO    2016-05-31 16:10:47,312 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:10:51,396 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:10:51,413 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 16:11:01,824 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 16:11:21,825 [RMI TCP Connection(4)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:11:21,827 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID DDO1111 in clinic location DDO
+INFO    2016-05-31 16:13:32,287 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:13:33,941 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:13:38,592 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:13:38,595 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 16:13:39,442 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:13:39,985 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:13:40,169 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:16:57,664 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:16:58,885 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:17:04,160 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:17:04,164 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 16:17:04,947 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:18:05,210 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:18:07,637 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:18:14,155 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:18:14,158 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 16:18:15,685 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:19:53,023 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:19:54,501 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:20:03,765 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:20:03,768 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 16:20:04,483 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:20:05,442 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:21:10,355 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:21:11,866 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:21:13,181 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:21:46,949 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:21:47,928 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:21:52,947 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:21:52,949 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 16:21:53,800 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:24:47,197 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:24:48,552 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:24:56,793 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:24:56,797 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 16:24:58,377 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:24:59,455 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:25:00,719 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:25:23,349 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 16:25:24,788 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:27:04,994 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 16:27:06,059 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:28:32,630 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 16:28:33,662 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:32:03,071 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:32:05,324 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:32:59,170 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:33:00,541 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:33:15,416 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:33:15,419 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 16:33:16,759 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 16:34:19,581 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 16:34:24,748 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:34:24,771 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 16:34:38,998 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO2222logged in this application
+INFO    2016-05-31 16:34:45,574 [RMI TCP Connection(4)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:34:45,576 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID DDO2222 in clinic location DDO
+INFO    2016-05-31 16:34:56,598 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL4444logged in this application
+INFO    2016-05-31 16:35:03,863 [RMI TCP Connection(6)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  w
+INFO    2016-05-31 16:35:03,865 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID LVL4444 in clinic location LVL
+INFO    2016-05-31 16:35:18,590 [RMI TCP Connection(6)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 16:35:18,591 [AWT-EventQueue-0] dsmssystem  - New Nurse Record is created by manager with managerID LVL4444 in clinic location LVL
+INFO    2016-05-31 20:52:12,475 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1222logged in this application
+INFO    2016-05-31 20:52:18,025 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 20:52:18,044 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1222 in clinic location MTL
+INFO    2016-05-31 20:52:19,189 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1222wants to know total number of records in all clinics
+INFO    2016-05-31 20:52:20,221 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1222wants to know total number of records in all clinics
+INFO    2016-05-31 20:52:21,029 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1222wants to know total number of records in all clinics
+INFO    2016-05-31 20:52:35,522 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL6666logged in this application
+INFO    2016-05-31 20:52:40,245 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL6666wants to know total number of records in all clinics
+INFO    2016-05-31 20:52:51,297 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 20:52:52,171 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 20:54:01,125 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 20:54:15,060 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 20:54:19,641 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  w
+INFO    2016-05-31 20:54:19,659 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID DDO1111 in clinic location DDO
+INFO    2016-05-31 20:54:28,795 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL3333logged in this application
+INFO    2016-05-31 20:54:33,163 [RMI TCP Connection(4)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  e
+INFO    2016-05-31 20:54:33,164 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID LVL3333 in clinic location LVL
+INFO    2016-05-31 20:54:38,717 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL3333wants to know total number of records in all clinics
+INFO    2016-05-31 20:54:40,485 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL3333wants to know total number of records in all clinics
+INFO    2016-05-31 20:54:59,106 [RMI TCP Connection(5)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  w
+INFO    2016-05-31 20:54:59,108 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID LVL3333 in clinic location LVL
+INFO    2016-05-31 20:55:00,828 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL3333wants to know total number of records in all clinics
+INFO    2016-05-31 20:55:15,817 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 20:55:17,116 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 20:55:18,051 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 20:55:18,667 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 20:59:05,636 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 20:59:12,059 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 20:59:12,069 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 20:59:13,622 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 20:59:14,662 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 20:59:19,755 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-05-31 20:59:19,756 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 20:59:20,838 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 20:59:28,450 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO2222logged in this application
+INFO    2016-05-31 20:59:32,698 [RMI TCP Connection(4)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 20:59:32,700 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID DDO2222 in clinic location DDO
+INFO    2016-05-31 20:59:33,675 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO2222wants to know total number of records in all clinics
+INFO    2016-05-31 21:02:39,936 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 21:02:41,202 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:02:42,562 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:02:44,146 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:04:46,008 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 21:04:48,642 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:04:49,459 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:04:49,747 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:04:49,946 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:04:53,918 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 21:04:53,927 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 21:04:55,203 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:04:56,306 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:06:06,884 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 21:06:08,951 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:06:11,142 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:06:15,984 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 21:06:15,993 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 21:06:17,142 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:06:17,886 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:11:07,507 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 21:11:09,526 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:11:09,917 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:11:10,189 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:11:10,477 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:14:21,272 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 21:14:22,162 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:14:24,154 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:14:43,247 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 21:14:44,865 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:14:47,650 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:14:48,394 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:15:38,828 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 21:15:40,159 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:15:44,798 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 21:15:44,806 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 21:15:45,351 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:15:46,446 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:15:46,629 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:15:55,035 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 21:15:56,917 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:15:57,597 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:15:58,421 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:17:49,924 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 21:17:51,472 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:23:44,168 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 21:24:47,429 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 21:24:49,350 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:29:05,406 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 21:29:06,882 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:29:54,811 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 21:30:46,096 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-05-31 21:30:47,055 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:30:53,332 [RMI TCP Connection(2)-132.205.93.95] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-05-31 21:30:53,351 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-05-31 21:30:54,659 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:30:56,546 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:31:14,935 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-05-31 21:31:15,868 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:31:16,745 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:31:17,209 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:31:17,417 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-05-31 21:33:36,911 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 12:39:14,033 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 12:40:12,822 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 12:40:16,186 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 12:40:23,301 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-01 12:40:23,310 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-01 12:40:24,144 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 12:40:25,047 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 12:40:25,471 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 12:40:34,693 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 12:42:03,251 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 12:42:40,508 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 12:47:47,299 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 12:52:06,567 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 12:52:31,321 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 12:53:02,826 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 12:53:04,703 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 12:54:59,472 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 12:55:01,489 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 12:55:09,544 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO2222logged in this application
+INFO    2016-06-01 13:13:14,687 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 13:13:16,119 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 13:13:24,183 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 13:18:33,605 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 13:18:36,151 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 13:19:09,455 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 13:19:39,264 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 13:19:40,643 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 13:20:04,705 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 13:20:29,546 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 15:24:55,145 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 15:24:56,603 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 15:25:06,297 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 15:34:47,595 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 15:47:02,580 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 15:47:03,968 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 15:48:23,136 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 15:48:25,484 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 15:48:30,064 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-01 15:48:30,077 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-01 15:48:30,946 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 15:48:31,569 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 15:48:35,478 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-06-01 15:48:35,479 [AWT-EventQueue-0] dsmssystem  - New Nurse Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-01 15:48:36,817 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 15:48:46,014 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 15:48:50,576 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 15:48:52,585 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 15:51:54,338 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 15:51:55,869 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 15:55:15,074 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 15:55:33,947 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 15:55:36,464 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:00:36,377 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:00:37,706 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:00:47,914 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 16:00:49,343 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:01:00,762 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:01:03,272 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:01:09,202 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 16:01:10,878 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:02:37,470 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:02:38,317 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:02:50,991 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 16:02:51,867 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:03:24,120 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:03:25,026 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:08:37,606 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:08:38,710 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:08:53,262 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL1111logged in this application
+INFO    2016-06-01 16:08:54,523 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:08:57,330 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:08:59,169 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:00,089 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:00,889 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:01,633 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:02,297 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:07,161 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:08,097 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:09,761 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:10,585 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:33,328 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 16:09:34,160 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:40,659 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:09:47,755 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:11:56,671 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL1111logged in this application
+INFO    2016-06-01 16:11:58,220 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:11:59,321 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:12:01,561 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:12:07,198 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-01 16:12:07,209 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-06-01 16:12:08,866 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:12:09,641 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:12:10,089 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:12:10,505 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:12:11,409 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:12:12,049 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:12:12,681 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:21:03,790 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:21:05,038 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:21:25,527 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 16:21:26,724 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:23:47,510 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:23:48,626 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:27:58,401 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:27:59,407 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:28:59,011 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:29:00,175 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:29:23,892 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:29:24,783 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:31:49,179 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:31:50,885 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:34:11,593 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:34:12,784 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:35:42,756 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:35:43,903 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:37:13,520 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:37:14,969 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:37:56,203 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:37:57,150 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:38:23,803 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:38:24,887 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:39:07,542 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:39:08,701 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:40:03,784 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:40:04,955 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:41:30,728 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:41:31,972 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:46:59,003 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 16:47:00,266 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:47:42,841 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 16:47:44,003 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:51:46,515 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 16:53:24,990 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 16:56:13,348 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:56:14,721 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:56:35,011 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:56:36,070 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:56:43,086 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-01 16:56:43,098 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-01 16:56:44,118 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:57:36,111 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:57:37,082 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:57:43,543 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-01 16:57:43,553 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-01 16:57:44,362 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 16:58:06,734 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 16:58:08,105 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 17:02:13,609 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 17:02:15,226 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 17:02:18,212 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 17:02:44,714 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 17:02:45,933 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 17:09:58,933 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1221logged in this application
+INFO    2016-06-01 17:10:00,056 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1221wants to know total number of records in all clinics
+INFO    2016-06-01 17:17:07,503 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 17:17:22,144 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1121logged in this application
+INFO    2016-06-01 17:17:23,293 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1121wants to know total number of records in all clinics
+INFO    2016-06-01 17:17:43,497 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 17:17:45,683 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 17:18:24,227 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1212logged in this application
+INFO    2016-06-01 17:18:26,533 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1212wants to know total number of records in all clinics
+INFO    2016-06-01 17:19:58,015 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 17:19:58,942 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 17:20:49,186 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 17:20:58,730 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1334logged in this application
+INFO    2016-06-01 17:21:01,212 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1334wants to know total number of records in all clinics
+INFO    2016-06-01 17:22:24,853 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1212logged in this application
+INFO    2016-06-01 17:22:25,873 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1212wants to know total number of records in all clinics
+INFO    2016-06-01 17:23:30,009 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL8885logged in this application
+INFO    2016-06-01 17:23:31,148 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL8885wants to know total number of records in all clinics
+INFO    2016-06-01 17:23:58,618 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL8853logged in this application
+INFO    2016-06-01 17:23:59,681 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL8853wants to know total number of records in all clinics
+INFO    2016-06-01 17:24:44,875 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1211logged in this application
+INFO    2016-06-01 17:24:45,866 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1211wants to know total number of records in all clinics
+INFO    2016-06-01 17:30:48,972 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 17:31:02,988 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 17:31:13,149 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1112logged in this application
+INFO    2016-06-01 17:31:22,309 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL1112logged in this application
+INFO    2016-06-01 17:31:56,422 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1212logged in this application
+INFO    2016-06-01 17:32:11,287 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1222logged in this application
+INFO    2016-06-01 17:32:28,232 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1221logged in this application
+INFO    2016-06-01 17:33:39,131 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1222logged in this application
+INFO    2016-06-01 17:33:53,332 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL2122logged in this application
+INFO    2016-06-01 17:33:54,918 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL2122wants to know total number of records in all clinics
+INFO    2016-06-01 17:35:39,817 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1211logged in this application
+INFO    2016-06-01 17:36:17,145 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL2221logged in this application
+INFO    2016-06-01 17:36:18,553 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL2221wants to know total number of records in all clinics
+INFO    2016-06-01 17:36:49,068 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1121logged in this application
+INFO    2016-06-01 17:36:50,103 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1121wants to know total number of records in all clinics
+INFO    2016-06-01 17:38:03,206 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTLassslogged in this application
+INFO    2016-06-01 17:38:05,017 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTLassswants to know total number of records in all clinics
+INFO    2016-06-01 17:41:39,825 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 17:41:41,475 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 17:43:05,908 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL2122logged in this application
+INFO    2016-06-01 17:43:06,758 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL2122wants to know total number of records in all clinics
+INFO    2016-06-01 17:49:29,335 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1212logged in this application
+INFO    2016-06-01 17:49:38,942 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1211logged in this application
+INFO    2016-06-01 17:49:40,338 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1211wants to know total number of records in all clinics
+INFO    2016-06-01 17:49:56,269 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 17:50:08,661 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1112logged in this application
+INFO    2016-06-01 17:50:19,932 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 17:52:21,405 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1211logged in this application
+INFO    2016-06-01 17:52:32,820 [AWT-EventQueue-0] dsmssystem  - Manager from 121 with manager ID 1212112logged in this application
+INFO    2016-06-01 17:52:43,244 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL1221logged in this application
+INFO    2016-06-01 17:54:03,671 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 18:03:47,079 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 18:03:53,928 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 18:04:22,329 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1133logged in this application
+INFO    2016-06-01 18:04:29,354 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1221logged in this application
+INFO    2016-06-01 18:05:21,860 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1212logged in this application
+INFO    2016-06-01 18:10:00,968 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 18:10:03,036 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:10:54,426 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 18:10:55,500 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:11:03,027 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 18:11:05,068 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:11:12,019 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 18:11:13,447 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:11:49,541 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 18:11:50,673 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:11:58,045 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 18:41:55,843 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 18:41:57,022 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:42:06,427 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 18:42:07,469 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:42:18,962 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL1111logged in this application
+INFO    2016-06-01 18:42:19,756 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:42:25,030 [RMI TCP Connection(6)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-01 18:42:25,042 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-06-01 18:42:26,700 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:42:28,548 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:43:11,407 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 18:43:12,581 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:49:27,874 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 18:49:28,853 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:53:55,131 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 18:53:56,196 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:55:15,950 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 18:55:16,992 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:56:51,169 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO4445logged in this application
+INFO    2016-06-01 18:57:11,400 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 18:57:13,369 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 18:58:53,338 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 18:58:54,437 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:00:50,107 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1222logged in this application
+INFO    2016-06-01 19:00:51,343 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1222wants to know total number of records in all clinics
+INFO    2016-06-01 19:01:20,061 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1222logged in this application
+INFO    2016-06-01 19:01:21,387 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1222wants to know total number of records in all clinics
+INFO    2016-06-01 19:03:01,617 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:03:03,094 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:04:14,252 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:04:15,333 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:06:03,689 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:06:04,777 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:06:30,738 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO4442logged in this application
+INFO    2016-06-01 19:06:32,071 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO4442wants to know total number of records in all clinics
+INFO    2016-06-01 19:06:42,770 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL8885logged in this application
+INFO    2016-06-01 19:06:43,798 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL8885wants to know total number of records in all clinics
+INFO    2016-06-01 19:07:11,956 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL4444logged in this application
+INFO    2016-06-01 19:07:12,864 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL4444wants to know total number of records in all clinics
+INFO    2016-06-01 19:07:36,445 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL4444logged in this application
+INFO    2016-06-01 19:07:37,611 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL4444wants to know total number of records in all clinics
+INFO    2016-06-01 19:11:06,327 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 19:11:07,175 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:11:16,111 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:11:17,016 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:12:16,730 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:12:17,532 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:14:29,919 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:14:30,805 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:15:31,986 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:15:32,824 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:16:01,387 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:16:02,317 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:16:23,428 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1222logged in this application
+INFO    2016-06-01 19:16:24,269 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1222wants to know total number of records in all clinics
+INFO    2016-06-01 19:17:25,415 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL7477logged in this application
+INFO    2016-06-01 19:17:26,395 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL7477wants to know total number of records in all clinics
+INFO    2016-06-01 19:17:45,904 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL4444logged in this application
+INFO    2016-06-01 19:17:46,986 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL4444wants to know total number of records in all clinics
+INFO    2016-06-01 19:18:15,065 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL4554logged in this application
+INFO    2016-06-01 19:18:15,868 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL4554wants to know total number of records in all clinics
+INFO    2016-06-01 19:19:00,859 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL4444logged in this application
+INFO    2016-06-01 19:19:01,734 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL4444wants to know total number of records in all clinics
+INFO    2016-06-01 19:19:21,764 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL7777logged in this application
+INFO    2016-06-01 19:19:22,758 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL7777wants to know total number of records in all clinics
+INFO    2016-06-01 19:20:49,240 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:20:49,924 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:24:30,546 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL4445logged in this application
+INFO    2016-06-01 19:24:31,762 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL4445wants to know total number of records in all clinics
+INFO    2016-06-01 19:27:41,441 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:27:42,308 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:28:29,116 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:28:30,184 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:28:32,717 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:28:34,471 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:28:36,935 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:28:40,086 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:28:45,818 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-01 19:28:45,826 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-01 19:28:46,711 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:28:47,238 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:28:47,414 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:29:05,958 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:29:06,882 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:30:57,730 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1112logged in this application
+INFO    2016-06-01 19:30:58,647 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1112wants to know total number of records in all clinics
+INFO    2016-06-01 19:31:22,003 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL2342logged in this application
+INFO    2016-06-01 19:31:23,454 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL2342wants to know total number of records in all clinics
+INFO    2016-06-01 19:32:29,550 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL3456logged in this application
+INFO    2016-06-01 19:32:30,660 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL3456wants to know total number of records in all clinics
+INFO    2016-06-01 19:37:39,404 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:37:40,279 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:39:39,841 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:39:41,132 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:40:27,763 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:40:28,614 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:40:41,002 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-01 19:40:41,781 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:41:31,368 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:41:32,138 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:42:34,628 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1132logged in this application
+INFO    2016-06-01 19:42:35,743 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1132wants to know total number of records in all clinics
+INFO    2016-06-01 19:43:42,336 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1112logged in this application
+INFO    2016-06-01 19:43:43,093 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1112wants to know total number of records in all clinics
+INFO    2016-06-01 19:44:28,910 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1112logged in this application
+INFO    2016-06-01 19:44:29,798 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1112wants to know total number of records in all clinics
+INFO    2016-06-01 19:45:31,610 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:45:32,411 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:46:26,375 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 19:46:27,233 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 19:52:49,065 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL5442logged in this application
+INFO    2016-06-01 19:52:50,266 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL5442wants to know total number of records in all clinics
+INFO    2016-06-01 19:55:08,602 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1234logged in this application
+INFO    2016-06-01 19:55:40,363 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL2121logged in this application
+INFO    2016-06-01 19:55:41,654 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL2121wants to know total number of records in all clinics
+INFO    2016-06-01 19:56:05,540 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL2121logged in this application
+INFO    2016-06-01 19:56:06,519 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL2121wants to know total number of records in all clinics
+INFO    2016-06-01 19:56:19,085 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL4321logged in this application
+INFO    2016-06-01 19:56:20,023 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL4321wants to know total number of records in all clinics
+INFO    2016-06-01 19:58:28,706 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1121logged in this application
+INFO    2016-06-01 19:58:29,737 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1121wants to know total number of records in all clinics
+INFO    2016-06-01 19:58:49,563 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1234logged in this application
+INFO    2016-06-01 19:58:51,758 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1234wants to know total number of records in all clinics
+INFO    2016-06-01 19:59:21,789 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1233logged in this application
+INFO    2016-06-01 19:59:24,191 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1233wants to know total number of records in all clinics
+INFO    2016-06-01 19:59:45,726 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL2344logged in this application
+INFO    2016-06-01 19:59:46,817 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL2344wants to know total number of records in all clinics
+INFO    2016-06-01 20:00:15,823 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL5422logged in this application
+INFO    2016-06-01 20:00:17,087 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL5422wants to know total number of records in all clinics
+INFO    2016-06-01 20:02:41,550 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1211logged in this application
+INFO    2016-06-01 20:02:42,619 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1211wants to know total number of records in all clinics
+INFO    2016-06-01 20:03:15,167 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 20:03:16,809 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 20:08:03,748 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 20:08:04,934 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 20:08:43,342 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 20:08:44,404 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 20:11:53,830 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1233logged in this application
+INFO    2016-06-01 20:11:55,088 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1233wants to know total number of records in all clinics
+INFO    2016-06-01 20:13:15,057 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1333logged in this application
+INFO    2016-06-01 20:13:15,939 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1333wants to know total number of records in all clinics
+INFO    2016-06-01 20:13:44,619 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO4321logged in this application
+INFO    2016-06-01 20:13:45,832 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO4321wants to know total number of records in all clinics
+INFO    2016-06-01 20:17:31,045 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO4511logged in this application
+INFO    2016-06-01 20:17:33,575 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO4511wants to know total number of records in all clinics
+INFO    2016-06-01 21:26:06,685 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1223logged in this application
+INFO    2016-06-01 21:26:18,108 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1223logged in this application
+INFO    2016-06-01 21:26:22,189 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1333logged in this application
+INFO    2016-06-01 21:27:36,193 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO2332logged in this application
+INFO    2016-06-01 21:27:42,749 [RMI TCP Connection(6)-132.205.93.55] dsmssystem  - Latest Record add in new list with key  a
+INFO    2016-06-01 21:27:42,765 [AWT-EventQueue-0] dsmssystem  - New Nurse Record is created by manager with managerID DDO2332 in clinic location DDO
+INFO    2016-06-01 21:30:35,176 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1211logged in this application
+INFO    2016-06-01 21:48:00,175 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1211logged in this application
+INFO    2016-06-01 21:50:29,997 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL11q2logged in this application
+INFO    2016-06-01 21:50:34,271 [RMI TCP Connection(13)-132.205.93.55] dsmssystem  - Latest Record add in new list with key  H
+INFO    2016-06-01 21:50:35,262 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:35,272 [RMI TCP Connection(13)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:36,263 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:36,272 [RMI TCP Connection(13)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:37,263 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:37,273 [RMI TCP Connection(13)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:38,264 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:38,273 [RMI TCP Connection(13)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:39,266 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:39,274 [RMI TCP Connection(13)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:40,267 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:40,274 [RMI TCP Connection(13)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:41,268 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:42,270 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:43,271 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:44,272 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:45,273 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:46,273 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:47,274 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:50:48,275 [RMI TCP Connection(12)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:51:55,376 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1121logged in this application
+INFO    2016-06-01 21:52:01,697 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL2112logged in this application
+INFO    2016-06-01 21:52:04,962 [RMI TCP Connection(17)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:05,779 [RMI TCP Connection(15)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:05,963 [RMI TCP Connection(17)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:06,779 [RMI TCP Connection(15)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:06,963 [RMI TCP Connection(17)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:07,780 [RMI TCP Connection(15)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:07,963 [RMI TCP Connection(17)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:08,782 [RMI TCP Connection(15)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:08,964 [RMI TCP Connection(17)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:09,783 [RMI TCP Connection(15)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:09,964 [RMI TCP Connection(17)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:10,783 [RMI TCP Connection(15)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:10,965 [RMI TCP Connection(17)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:52:11,783 [RMI TCP Connection(15)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:03,046 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL`121logged in this application
+INFO    2016-06-01 21:54:10,071 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1221logged in this application
+INFO    2016-06-01 21:54:16,221 [RMI TCP Connection(2)-132.205.93.55] dsmssystem  - Latest Record add in new list with key  H
+INFO    2016-06-01 21:54:16,983 [RMI TCP Connection(4)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:17,229 [RMI TCP Connection(2)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:17,984 [RMI TCP Connection(4)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:18,229 [RMI TCP Connection(2)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:18,985 [RMI TCP Connection(4)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:19,230 [RMI TCP Connection(2)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:19,985 [RMI TCP Connection(4)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:20,230 [RMI TCP Connection(2)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:20,985 [RMI TCP Connection(4)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:21,230 [RMI TCP Connection(2)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:21,985 [RMI TCP Connection(4)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:22,230 [RMI TCP Connection(2)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 21:54:22,986 [RMI TCP Connection(4)-132.205.93.55] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:35:48,761 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 23:35:50,350 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 23:36:02,494 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-01 23:36:02,502 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-01 23:36:17,354 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO2222logged in this application
+INFO    2016-06-01 23:36:25,202 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-01 23:36:25,210 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID DDO2222 in clinic location DDO
+INFO    2016-06-01 23:36:30,165 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  H
+INFO    2016-06-01 23:36:31,167 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:32,168 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:33,169 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:34,170 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:35,171 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:36,173 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:37,175 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:38,176 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:39,177 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:40,181 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:41,182 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:42,183 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:43,184 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:44,186 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:45,187 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:46,189 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:47,193 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:48,194 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:49,195 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:50,196 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:36:51,200 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:41:42,905 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-01 23:41:47,777 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-01 23:41:53,457 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  H
+INFO    2016-06-01 23:41:54,476 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:41:55,479 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:41:56,482 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:41:57,483 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:41:58,484 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:41:59,485 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:42:07,704 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:42:08,706 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:42:09,708 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:42:10,709 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:42:11,710 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:42:12,711 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-01 23:42:13,712 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-02 16:14:38,530 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:14:41,280 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 16:16:34,486 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:16:35,634 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 16:17:02,224 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:17:04,533 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 16:17:44,585 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:17:45,532 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 16:21:53,580 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:23:27,392 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:23:28,748 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 16:23:49,570 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:23:50,668 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 16:24:35,001 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:24:36,778 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 16:31:44,713 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:31:45,819 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 16:32:18,839 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:32:19,987 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 16:32:37,350 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 16:32:38,361 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:30:03,151 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:30:04,424 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:34:20,537 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:34:21,868 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:35:37,501 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:35:38,912 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:40:45,515 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:40:46,493 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:40:49,517 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:40:51,877 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:40:53,821 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:40:55,076 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:41:41,504 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:41:42,218 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:42:27,245 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:42:29,016 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:43:35,562 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:43:36,628 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:44:30,527 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:44:31,836 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:44:58,121 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:44:58,900 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:45:22,354 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:45:23,270 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:49:48,438 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:49:49,528 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:49:52,656 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:51:53,427 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:51:54,362 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:52:54,285 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:52:55,129 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:52:57,624 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 17:53:12,334 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:53:17,776 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  H
+INFO    2016-06-02 17:53:18,785 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-02 17:53:19,786 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-02 17:53:20,787 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-02 17:53:21,787 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-02 17:53:22,788 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-02 17:53:23,788 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-02 17:57:20,945 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 17:57:21,812 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:00:30,385 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 18:00:31,563 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:00:34,188 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:01:52,517 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 18:01:53,579 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:01:56,112 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:11:10,949 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 18:11:13,168 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:11:20,415 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-02 18:11:20,418 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-02 18:11:21,625 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:11:22,312 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:20:30,566 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 18:20:32,019 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:20:36,829 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-02 18:20:36,833 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-02 18:20:38,377 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:20:39,704 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:20:40,120 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:35:10,838 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 18:35:11,911 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:39:48,474 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-02 18:39:49,309 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:39:56,112 [RMI TCP Connection(2)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-02 18:39:56,121 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-02 18:39:59,382 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:40:07,643 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-02 18:40:08,373 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:40:16,820 [RMI TCP Connection(4)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-02 18:40:16,821 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID DDO1111 in clinic location DDO
+INFO    2016-06-02 18:40:29,060 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTLq111logged in this application
+INFO    2016-06-02 18:40:40,196 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL1111logged in this application
+INFO    2016-06-02 18:40:41,074 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-02 18:40:47,165 [RMI TCP Connection(8)-132.205.93.54] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-02 18:40:47,167 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-06-02 18:40:49,271 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:42:57,271 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 16:42:59,156 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:43:09,232 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:44:16,575 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 16:44:18,005 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:44:19,920 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:44:20,366 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:45:53,624 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-06-04 16:45:55,590 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:54:54,920 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 16:54:56,679 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:55:01,937 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 16:55:01,942 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 16:55:02,889 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:55:03,718 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:55:04,067 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 16:55:07,495 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-06-04 16:55:07,496 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 16:55:08,304 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:03:48,032 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:03:49,612 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:03:54,599 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:03:54,604 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:03:55,934 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:03:56,580 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:04:00,263 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-06-04 17:04:00,264 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:04:01,297 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:04:02,336 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:05:51,064 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:05:52,693 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:05:57,752 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:05:57,756 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:05:58,962 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:09:23,089 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:09:24,671 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:09:30,200 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:09:30,204 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:10:02,176 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:10:14,977 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:10:16,910 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:10:20,741 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:10:20,745 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:11:04,841 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:11:06,936 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:11:10,625 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:11:10,630 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:13:13,977 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:13:16,062 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:13:19,536 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:13:19,541 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:14:06,952 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:14:08,693 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:14:12,616 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:14:12,621 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:18:41,787 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:18:47,722 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:18:47,726 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:19:33,057 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:19:37,098 [RMI TCP Connection(4)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-06-04 17:19:37,099 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:22:43,409 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:22:48,194 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:22:48,198 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:22:50,178 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-06-04 17:22:50,179 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:22:52,188 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:23:16,290 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:23:20,815 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:23:20,820 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:25:48,489 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:25:55,986 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:25:55,991 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:26:38,291 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:26:40,191 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:26:44,738 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:26:44,743 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:28:40,611 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:28:42,296 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:28:46,045 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:28:46,050 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:34:46,770 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:34:48,527 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:34:53,774 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:34:53,779 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:34:54,659 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:34:55,904 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:34:59,814 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-06-04 17:34:59,815 [AWT-EventQueue-0] dsmssystem  - New Nurse Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:35:00,842 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:35:01,876 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:36:09,163 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:36:14,280 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:36:14,287 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:36:15,234 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:36:16,851 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:36:17,185 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:36:26,274 [AWT-EventQueue-0] dsmssystem  - Manager from LVL with manager ID LVL1111logged in this application
+INFO    2016-06-04 17:36:31,010 [RMI TCP Connection(4)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:36:31,011 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-06-04 17:36:31,837 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:36:33,315 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:36:37,366 [RMI TCP Connection(4)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-06-04 17:36:37,367 [AWT-EventQueue-0] dsmssystem  - New Nurse Record is created by manager with managerID LVL1111 in clinic location LVL
+INFO    2016-06-04 17:36:38,024 [AWT-EventQueue-0] dsmssystem  - Manager of clinic LVL with managerID LVL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:39:09,843 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:39:12,715 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:39:16,135 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  q
+INFO    2016-06-04 17:39:16,140 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:39:23,755 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-06-04 17:39:23,756 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:39:24,570 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:39:29,346 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:39:33,121 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key q
+INFO    2016-06-04 17:39:33,122 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-06-04 17:39:34,094 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:40:29,547 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-06-04 17:40:32,443 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-06-04 17:40:35,620 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in new list with key  H
+INFO    2016-06-04 17:40:36,629 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-04 17:40:37,630 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-04 17:40:38,633 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-04 17:40:39,634 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-04 17:40:40,636 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-04 17:40:41,637 [RMI TCP Connection(2)-192.168.1.103] dsmssystem  - Latest Record add in existing list with key H
+INFO    2016-06-04 17:40:44,433 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
